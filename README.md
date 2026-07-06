@@ -1,4 +1,4 @@
-# Advanced Disk I/O Performance Tester
+# Simple Disk I/O Performance Tester
 
 A lightweight, multi-threaded disk performance tester written in Python. It benchmarks disk read and write performance by writing and reading files of multiple sizes sequentially using thread pools.
 
